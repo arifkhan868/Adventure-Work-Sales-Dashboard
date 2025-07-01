@@ -26,3 +26,9 @@
 - Power Query for data cleaning  
 - DAX for measures & KPIs  
 - Interactive visuals, slicers, tooltips  
+
+## 📬 Contact
+
+If you like this project or have questions, feel free to connect:  
+📧 arifkhan.nsd14@gmail.com
+🔗 [[https://www.linkedin.com/in/ariful-islam-dataanalyst))
