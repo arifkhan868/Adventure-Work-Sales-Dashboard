@@ -11,3 +11,7 @@
 - DAX দিয়ে KPI তৈরী (Total Sales, Profit, AOV) 💡  
 - Dynamic filters ও drill-through pages 🎯  
 
+## 📁 Files
+
+- `Advanture work project.pbix` — Main Power BI report  
+- `README.md` — এই GitHub Page এর বিবরণ  
