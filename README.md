@@ -25,7 +25,10 @@
 
 - Power Query for data cleaning  
 - DAX for measures & KPIs  
-- Interactive visuals, slicers, tooltips  
+- Interactive visuals, slicers, tooltips
+
+  ## Dashboard Interaction
+  - <a href="https://github.com/arifkhan868/Adventure-Work-Sales-Dashboard/blob/main/Dashboard.PNG">View Dashboard</a>
 
 ## 📬 Contact
 
