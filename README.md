@@ -14,4 +14,15 @@
 - DAX দিয়ে KPI তৈরী (Total Sales, Profit, AOV) 💡  
 - Dynamic filters ও drill-through pages
 
+## 📊 Key Insights
 
+- Bikes category generated over 60% of total revenue  
+- North America was the top-performing region  
+- Repeat customers spent 2.4x more than new customers  
+- Online sales had higher volume, but lower profit margin  
+
+## 🧠 Skills Used
+
+- Power Query for data cleaning  
+- DAX for measures & KPIs  
+- Interactive visuals, slicers, tooltips  
